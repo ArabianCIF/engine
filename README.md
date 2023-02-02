@@ -3,7 +3,7 @@
 This app is optimized for PC. I don't recommend for use with smartphones. If you used the app with your smartphones, Its UI may do not doing good.  
 such as:  
 <img src="https://user-images.githubusercontent.com/104769416/216246452-def96b91-2a28-4a4f-8008-dfca017b538c.png" width="30%">
-<img src="https://user-images.githubusercontent.com/104769416/216247762-86f85ac1-b686-4ab8-a77b-8ab3bea0f265.png" width="30%">
+<img src="https://user-images.githubusercontent.com/104769416/216247762-86f85ac1-b686-4ab8-a77b-8ab3bea0f265.png" width="60%">
 
 ## Getting Started
 

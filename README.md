@@ -1,6 +1,6 @@
 # engine
 
-a app
+a app optimized for PC.
 
 ## Getting Started
 

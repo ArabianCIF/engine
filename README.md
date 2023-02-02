@@ -19,6 +19,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### To using within Windows
-You need to build [msix package](https://pub.dev/packages/msix) or [compile](https://docs.flutter.dev/development/platform-integration/windows/building). But I couldn't upload all files. Thus you'll probably need to fix this app before compiling💦
+You need to build [msix package](https://pub.dev/packages/msix) or [compile](https://docs.flutter.dev/development/platform-integration/windows/building). But I couldn't upload all files. Thus you'll probably need to fix this app before compiling and building💦
 If you can use flutter SDK, It's better to copy files in the [engine/lib/](https://github.com/ArabianCIF/engine/tree/master/lib) to /lib/ in your new flutter apps.
 (Don't forget to add photo and packages!)

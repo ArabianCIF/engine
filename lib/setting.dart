@@ -114,47 +114,38 @@ class _settingState extends State<setting> with SingleTickerProviderStateMixin {
     );
   }
 
-  Widget setting_menu() {
+  Widget photo_back(d) {
     double _height = MediaQuery.of(context).size.height;
     double _width = MediaQuery.of(context).size.width;
     return Center(
       child: Container(
-        height: _height * 0.8,
-        width: _width * 0.8,
+        height: _height * 0.1,
+        width: _width * 1,
         decoration: BoxDecoration(
-          color: Colors.black.withOpacity(0.15),
-          borderRadius: BorderRadius.circular(30),
+          color: Colors.black,
+          image: DecorationImage(
+            image: AssetImage(d),
+            fit: BoxFit.cover,
+          ),
         ),
-        child: Stack(
-          children: [
-            Align(
-              alignment: Alignment.centerRight,
-              child: Container(
-                height: _height * 0.78,
-                width: _width * 0.399,
-                decoration: BoxDecoration(
-                  color: Colors.black.withOpacity(0.15),
-                  borderRadius: BorderRadius.circular(30),
-                ),
-                child: Align(
-                  alignment: Alignment.topCenter,
-                  child: Text("walper"),
-                ),
-              ),
-            ),
-            Align(
-              alignment: Alignment.centerLeft,
-              child: Container(
-                height: _height * 0.78,
-                width: _width * 0.399,
-                decoration: BoxDecoration(
-                  color: Colors.black.withOpacity(0.15),
-                  borderRadius: BorderRadius.circular(30),
-                ),
-              ),
-            ),
-          ],
-        ),
+      ),
+    );
+  }
+
+  Widget setting_menu() {
+    double _height = MediaQuery.of(context).size.height;
+    double _width = MediaQuery.of(context).size.width;
+
+    return Center(
+      child: ListView(
+        children: [
+          ListView(
+            children: [Text("a")],
+          ),
+          ListView(
+            children: [Text("a")],
+          )
+        ],
       ),
     );
   }

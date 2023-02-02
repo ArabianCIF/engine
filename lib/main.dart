@@ -1,3 +1,4 @@
+import 'package:engine/setting.dart';
 import 'package:flutter/material.dart';
 import 'home.dart';
 
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: home(
+      home: setting(
         value: "assets/images/background_thema/bpp5.jpg",
       ),
     );

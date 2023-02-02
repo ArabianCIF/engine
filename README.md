@@ -1,7 +1,7 @@
 # engine
 
 This app is optimized for PC. I don't recommend for use with smartphones. If you used the app with your smartphones, Its UI may do not doing good.
-[such as](https://github.com/ArabianCIF/engine/issues/1)
+![engine 2023_02_02 15_13_24](https://user-images.githubusercontent.com/104769416/216246452-def96b91-2a28-4a4f-8008-dfca017b538c.png)
 
 ## Getting Started
 

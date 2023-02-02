@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### To using with Windows
 You need to build [msix package](https://pub.dev/packages/msix) or [compile](https://docs.flutter.dev/development/platform-integration/windows/building). But I couldn't upload all files. Thus you'll probably need to fix this app before compiling💦
-If you can use flutter SDK, It's better to copy files in the engine/lib/ to /lib/ in your new flutter apps.
+If you can use flutter SDK, It's better to copy files in the [engine/lib/](https://github.com/ArabianCIF/engine/tree/master/lib) to /lib/ in your new flutter apps.

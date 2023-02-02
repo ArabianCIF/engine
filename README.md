@@ -1,8 +1,8 @@
 # engine
 
 This app is optimized for PC. I don't recommend for use with smartphones. If you used the app with your smartphones, Its UI may do not doing good.  
-<img src="https://user-images.githubusercontent.com/104769416/216246452-def96b91-2a28-4a4f-8008-dfca017b538c.png" width="300px">
-<img src="https://user-images.githubusercontent.com/104769416/216246458-ea3025b1-e4e7-49ac-91e3-e8d6d7e16372.png" width="300px">
+<img src="https://user-images.githubusercontent.com/104769416/216246452-def96b91-2a28-4a4f-8008-dfca017b538c.png" height="300px">
+<img src="https://user-images.githubusercontent.com/104769416/216246458-ea3025b1-e4e7-49ac-91e3-e8d6d7e16372.png" height"300px">
 
 ## Getting Started
 

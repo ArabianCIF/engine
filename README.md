@@ -1,6 +1,6 @@
 # engine
 
-A new Flutter project.
+This app is optimized for PC.I don't recommend for use with smartphones.
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### To using with Windows
+You need to build msix package or compile. But I couldn't upload all files. Thus you'll probably need to fix this app before compiling💦

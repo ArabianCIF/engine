@@ -94,4 +94,4 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
 msix_config:
-  logo_path: C:\Users\hapur\program\icon.png
+  logo_path:#

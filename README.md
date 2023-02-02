@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### To using with Windows
-You need to build msix package or compile.
+You need to build msix package or compile. But I couldn't upload all files. Thus you'll probably need to fix this app before compiling💦

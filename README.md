@@ -1,6 +1,6 @@
 # engine
 
-a app optimized for PC.
+This app is optimized for PC.I don't recommend for use with smartphones.
 
 ## Getting Started
 

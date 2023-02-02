@@ -15,4 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### to using with Windows
+### To using with Windows
+You need to build msix package or compile.

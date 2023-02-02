@@ -1,6 +1,6 @@
 # engine
 
-This app is optimized for PC.I don't recommend for use with smartphones.
+This app is optimized for PC. I don't recommend for use with smartphones. If you used the app with your smartphones, Its UI may do not doing good.
 
 ## Getting Started
 
